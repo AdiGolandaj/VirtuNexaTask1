@@ -1,6 +1,5 @@
 import React from 'react'
 import MedicalResearchSVG from '../assets/Medical research-amico.svg'
-import WaveBackground from '../assets/layered-steps-haikei.svg'
 
 
 const Home = () => {
@@ -55,7 +54,7 @@ const Home = () => {
         <div
           className=" z-0 aspect-w-13 aspect-h-3 w-full h-full bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url(${WaveBackground})`,
+            backgroundImage: `url('../assets/layered-steps-haikei.svg')`,
           }}
         ></div>
       </div>
