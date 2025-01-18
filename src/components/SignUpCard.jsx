@@ -28,7 +28,7 @@ const SignUpCard = () => {
             />
             <button
                 type="submit"
-                className="w-full bg-l1 hover:bg-l2 focus:bg-l1 text-white font-semibold p-3 rounded-lg mt-4"
+                className="w-full bg-l4 hover:bg-l2 focus:bg-l1 text-white font-semibold p-3 rounded-lg mt-4"
             >
                 Sign Up
             </button>

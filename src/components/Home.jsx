@@ -6,9 +6,9 @@ const Home = () => {
   return (
     <div>
       {/* Desktop */}
-      <div className="hidden lg:flex bg-l2 w-screen h-svh flex-row">
+      <div className="hidden lg:flex bg-l2 w-screen h-screen flex-row">
         <div className="flex flex-col w-1/2 justify-center items-center pl-9">
-          <div className="flex font-mono font-extrabold justify-center text-white lg:text-8xl text-5xl pl-7 pt-20">
+          <div className="flex font-mono font-extrabold justify-center text-white xl:text-8xl lg:text-7xl text-5xl pl-7 pt-20">
             <span>Your Health, Our Priority</span>
           </div>
           <div className="flex justify-center text-white md:text-3xl text-xl pl-10 pt-5">
@@ -28,7 +28,7 @@ const Home = () => {
       </div>
 
       {/* Mobile */}
-      <div className="lg:hidden bg-l2 w-screen h-svh flex flex-col justify-center items-center overflow-x-hidden">
+      <div className="lg:hidden bg-l2 h-screen w-screen flex flex-col justify-center items-center overflow-x-hidden">
         <div className="w-2/3 flex justify-center items-center pt-20">
           <img
             src={MedicalResearchSVG}
@@ -37,10 +37,10 @@ const Home = () => {
           />
         </div>
         <div className="flex flex-col items-center">
-          <div className="flex font-mono font-extrabold text-white text-7xl w-screen justify-center text-center px-8 pt-5">
+          <div className="flex font-mono font-extrabold text-white text-5xl w-screen justify-center text-center px-8 pt-5">
             <span>Your Health, Our Priority</span>
           </div>
-          <div className="flex text-white w-screen text-3xl text-center px-8 pt-5">
+          <div className="flex text-white w-screen text-xl text-center px-8 pt-5">
             <span>
               Providing top-notch healthcare services with a personal touch.
               Your well-being is our mission.

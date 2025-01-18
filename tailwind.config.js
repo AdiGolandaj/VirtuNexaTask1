@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      scale:{
+        '60':'0.60'
+      },
       clipPath: {
         diagonal: 'polygon(0 0, 70% 0, 30% 100%, 0% 100%)',
       },
