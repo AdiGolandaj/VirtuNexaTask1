@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # VirtuNexa Task 1
--(Before reading anything, know that this project is just for front-end purposes *has no ulterior motive*.
--Just a project for my internship that i did not too long ago (shittiest code i've written....kinda....idk)
+- (Before reading anything, know that this project is just for front-end purposes *has no ulterior motive*.
+- Just a project for my internship that i did not too long ago (shittiest code i've written....kinda....idk)
 
 Currently, two official plugins are available:
 
