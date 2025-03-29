@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# React + Vite
+# VirtuNexa Task 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Just a project for my internship that i did not too long ago (shittiest code i've written....kinda....idk)
 
 Currently, two official plugins are available:
 
